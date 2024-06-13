@@ -1,2 +1,2 @@
 # modeFairAssessment
-Currency Conversion Automation
+Currency Conversion Automation - Selenium and JMeter
