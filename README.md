@@ -1,0 +1,2 @@
+# modeFairAssessment
+Currency Conversion Automation
