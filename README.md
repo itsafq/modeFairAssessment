@@ -1,5 +1,6 @@
 # modeFairAssessment
 Currency Conversion Automation - Selenium and JMeter - https://www.xe.com/currencyconverter/
+Test Case Scenarios - [HomeAssessment-modeFair.docx](https://github.com/user-attachments/files/15823361/HomeAssessment-modeFair.docx)
 
 # JMeter Explanation
 ![Desktop Screenshot 2024 06 13 - 23 15 38 50](https://github.com/itsafq/modeFairAssessment/assets/85685386/58f168c6-16e1-44c8-8828-4bb99a9f2624)
